@@ -1,4 +1,4 @@
-package JeghemaBetik;
+package jeghemabetik;
 
 public class Pengguna {
 }
